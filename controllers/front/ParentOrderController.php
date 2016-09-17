@@ -321,7 +321,7 @@ class ParentOrderControllerCore extends FrontController
                 null,
                 null,
                 null,
-                $null,
+                null,
                 true,
                 true,
                 $cart_product_context);
